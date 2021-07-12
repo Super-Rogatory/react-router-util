@@ -45,6 +45,7 @@ export default App;
 
 ## NOTE: Important detail about Link.
 - ### **React Router provides a Link component to create links in your application. Wherever you render a Link, an anchor (a) will be rendered in your HTML document.**
+- ### **You cannot use a Link Component outside of a Router component**
 <hr />
 
 # Definitions of Important Hooks
